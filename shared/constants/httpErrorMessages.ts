@@ -1,0 +1,15 @@
+export const WRONG_USER_OR_PASSWORD = "The user name or password is wrong";
+export const TOKEN_NOT_FOUND = "Token not found.";
+export const TOKEN_VALIDITY_EXPIRED = "Token is expired.";
+export const USER_NOT_FOUND = "User not found.";
+export const USER_NOT_REGISTERED = "User is not registered.";
+export const NO_CONTENT = "No Content."
+export const NOT_FOUND = "not found."
+export const INVALID_INPUT='Invalid input please provide valid input.'
+export const UN_AUTHORIZED = "You are not authorized to access."
+export const ROLE_DELETE_NOT_ALLOWED = "User is associated with this role thus unable to delete"
+export const ROLE_NOT_FOUND ="Role is not found"
+export const USER_ADDED= 'User has been successfully added.'
+export const USER_DELETED= 'User has been successfully deleted.'
+export const USERS_DELETED ='Users has been successfully deleted.'
+export const USER_UPDATED= 'User has been successfully updated.'
